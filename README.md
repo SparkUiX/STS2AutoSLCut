@@ -143,6 +143,18 @@ Edited with AutoSLCut Mod
 
 ---
 
+
+Install and enable the mod.
+
+---
+
+### 2️⃣ Record Gameplay
+
+1. Launch game & OBS (any order)
+2. Start recording (recommended: `.mkv`)
+3. Play normally (including SL)
+
+---
 # English
 
 ## 📌 Overview
@@ -168,18 +180,6 @@ It automatically detects **Save & Load (SL)** events during recording and genera
 ## 🚀 Usage
 
 ### 1️⃣ Install Mod
-
-Install and enable the mod.
-
----
-
-### 2️⃣ Record Gameplay
-
-1. Launch game & OBS (any order)
-2. Start recording (recommended: `.mkv`)
-3. Play normally (including SL)
-
----
 
 ### 3️⃣ After Recording
 
@@ -250,7 +250,9 @@ Depends on:
 
 ## ❤️ Credits
 
-If you use this mod:
+If this tool is helpful to you:
+
+👉 Please indicate in the video:
 
 ```
 Edited with AutoSLCut Mod
