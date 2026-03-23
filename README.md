@@ -141,18 +141,10 @@ Edited with AutoSLCut Mod
 * GUI 界面
 * 更智能的剪辑策略
 
----
 
 
-Install and enable the mod.
 
----
 
-### 2️⃣ Record Gameplay
-
-1. Launch game & OBS (any order)
-2. Start recording (recommended: `.mkv`)
-3. Play normally (including SL)
 
 ---
 # English
@@ -180,6 +172,18 @@ It automatically detects **Save & Load (SL)** events during recording and genera
 ## 🚀 Usage
 
 ### 1️⃣ Install Mod
+---
+
+Install and enable the mod.
+
+---
+
+### 2️⃣ Record Gameplay
+
+1. Launch game & OBS (any order)
+2. Start recording (recommended: `.mkv`)
+3. Play normally (including SL)
+
 
 ### 3️⃣ After Recording
 
